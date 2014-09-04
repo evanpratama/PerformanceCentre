@@ -1,0 +1,25 @@
+"A flower cannot blossom without sunshine, and man cannot live without love.";Max Muller;Love
+"Where there is love there is life.";Mahatma Gandhi;Love
+"There is no remedy for love but to love more.";Henry David Thoreau;Love
+"The first duty of love is to listen.";Paul Tillich;Love
+"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.";Lao Tzu;Love
+"Democracy is when the indigent, and not the men of property, are the rulers.";Aristotle;Politics
+"Politics is war without bloodshed while war is politics with bloodshed.";Mao Zedong;Politics
+"Politics is not a game. It is an earnest business.";Winston Churchill;Politics
+"One of the penalties for refusing to participate in politics is that you end up being governed by your inferiors.";Plato;Politics
+"Those who stand for nothing fall for anything.";Alexander Hamilton;Politics
+"Our wounds are often the openings into the best and most beautiful part of us.";David Richo;Psychology
+"Every form of addiction is bad, no matter whether the narcotic be alcohol, morphine or idealism.";C.G. Jung;Psychology
+"Our ability to adapt is amazing. Our ability to change isn't quite as spectacular.";Liza Lutz;Psychology
+"An intelligent person can rationalize anything, a wise person doesn't try.";Jen Knox;Psychology
+"A life that is burdened with expectations is a heavy life. Its fruit is sorrow and disappointment.";Douglas Adams;Psychology
+"Be the change that you wish to see in the world.";Mahatma Gandhi;Philosophy
+"A day without laughter is a day wasted.";Nicholas Chamfort;Philosophy
+"You talk when you cease to be at peace with your thoughts.";Kahlil Gibran;Philosophy
+"Man is the only creature who refuses to be what he is.";Albert Camus;Philosophy
+"Never let your sense of morals prevent you from doing what is right.";Isaac Asimov;Philosophy
+"Age is an issue of mind over matter. If you don't mind, it doesn't matter.";Mark Twain;Other
+"The only source of knowledge is experience.";Albert Einstein;Other
+"Life can only be understood backwards; but it must be lived forwards.";Soren Kierkegaard;Other
+"Have no fear of perfection - you'll never reach it.";Salvador Dali;Other
+"Only when we are no longer afraid do we begin to live.";Dorothy Thompson;Other
